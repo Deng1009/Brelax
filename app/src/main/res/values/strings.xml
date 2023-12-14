@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Brelax</string>
+
+    <string name="cancel">取消</string>
+    <string name="confirm">確定</string>
+    <!--  Permission Check  -->
+    <string name="permission_description">本程式使用了以下權限: \n%s\n請確認並接受</string>
+    <string name="permission_continue">繼續</string>
+    <!--  Main Page  -->
+    <string name="game_button_name">呼吸遊戲</string>
+    <string name="diary_button_name">心情日記</string>
+    <string name="record_button_name">歷史紀錄</string>
+    <string name="stai_button_name">STAI</string>
+    <!--  Dairy Page  -->
+    <string name="what_mood">你今天的感覺如何？</string>
+    <string name="what_event">是什麼事情讓你感覺%n%s</string>
+    <string name="what_feel">哪一項最能描述這種感覺</string>
+    <string name="am">上午</string>
+    <string name="pm">下午</string>
+    <string name="diary_date">%d月%d日 %s%d:%02d</string>
+    <string name="event_list_title">活動項目</string>
+    <string name="feel_list_title">感覺</string>
+    <string name="diary_title">日記</string>
+    <string name="title_text">標題</string>
+    <string name="content_text">內容…</string>
+    <string name="completed_text">完成</string>
+    <string name="not_select_item_warning">請選擇一個選項</string>
+    <!--  Game Page  -->
+    <string name="connecting">連接中…</string>
+    <string name="connect_success">裝置連接成功</string>
+    <string name="connect_failed">裝置連接失敗</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="event_work">工作</string>
+    <string name="event_family">家庭</string>
+    <string name="event_friend">朋友</string>
+    <string name="event_school">學校</string>
+    <string name="event_game">遊戲</string>
+    <string name="event_food">食物</string>
+    <string name="event_sleep">睡覺</string>
+    <string name="event_travel">旅行</string>
+    <string name="event_weather">天氣</string>
+</resources>

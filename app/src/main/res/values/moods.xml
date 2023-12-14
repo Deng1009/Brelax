@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mood_very_good">非常愉快</string>
+    <string name="mood_good">很愉快</string>
+    <string name="mood_normal">愉快</string>
+    <string name="mood_bad">不愉快</string>
+    <string name="mood_very_bad">非常不愉快</string>
+</resources>

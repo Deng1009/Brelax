@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feel_happy">開心</string>
+    <string name="feel_relax">放鬆</string>
+    <string name="feel_cool">冷靜</string>
+    <string name="feel_fervent">熱情</string>
+    <string name="feel_lucky">幸運</string>
+    <string name="feel_grateful">感激</string>
+    <string name="feel_mad">生氣</string>
+    <string name="feel_fear">害怕</string>
+    <string name="feel_anxiety">焦慮</string>
+    <string name="feel_awkward">尷尬</string>
+    <string name="feel_upset">失落</string>
+    <string name="feel_sad">悲傷</string>
+</resources>
