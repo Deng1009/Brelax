@@ -1,4 +1,4 @@
-package com.dtx804lab.brelax.ui.theme
+package com.dtx804lab.brelax.ui
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -36,6 +36,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.dtx804lab.brelax.R
+import com.dtx804lab.brelax.ui.theme.Typography
 
 @Preview
 @Composable
@@ -60,7 +61,7 @@ fun Screen() {
             Column(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(15.dp),
+                    .padding(top = 15.dp, bottom = 15.dp),
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
                 Text(
