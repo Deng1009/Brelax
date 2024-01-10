@@ -58,6 +58,7 @@ android {
 }
 
 dependencies {
+    implementation("com.google.firebase:firebase-inappmessaging-ktx:20.4.0")
     val roomVersion = "2.5.2"
 
     implementation("androidx.core:core-ktx:1.9.0")
